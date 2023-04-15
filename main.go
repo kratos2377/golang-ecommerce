@@ -7,6 +7,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/kratos2377/golang-ecommerce/controllers"
 	"github.com/kratos2377/golang-ecommerce/database"
+	"github.com/kratos2377/golang-ecommerce/middleware"
 	"github.com/kratos2377/golang-ecommerce/routes"
 )
 
